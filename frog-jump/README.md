@@ -36,3 +36,6 @@ input: [0,1,2,3,4,8,9,11]
 Return false. There is no way to jump to the last stone as 
 the gap between the 5th and 6th stone is too large.
 ```
+
+### Contributor
+- [Qhodok] (https://github.com/Qhodok)
