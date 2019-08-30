@@ -37,5 +37,8 @@ Return false. There is no way to jump to the last stone as
 the gap between the 5th and 6th stone is too large.
 ```
 
+### References
+- https://leetcode.com/problems/frog-jump/
+
 ### Contributor
-- [Qhodok] (https://github.com/Qhodok)
+- [Qhodok](https://github.com/Qhodok)
